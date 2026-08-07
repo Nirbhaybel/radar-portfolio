@@ -22,7 +22,7 @@ const publications = [
 
     abstract:
      "The extraction of Micro-Doppler (M-D) signatures from radar signals is critical for classifying various targets. This study uses Machine Learning techniques to investigate the impact of phase noise on micro-Doppler extraction. Experiments are conducted with varying phase noise intensities to assess its influence on classification performance. Detailed micro-Doppler simulations for different objects illustrate how phase noise impacts their distinctive signatures. Using the micro-Doppler signal-to-noise ratio (MSNR), results show that increasing carrier frequency does not enhance the extraction performance of micro-motion features.",
-    pdf: "/publication/papers/Phase_noise.pdf",
+    pdf: "/radar-portfolio/papers/Phase_noise.pdf",
 
     doi: "https://ieeexplore.ieee.org/document/10867536",
   },
