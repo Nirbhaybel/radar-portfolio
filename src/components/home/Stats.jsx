@@ -6,16 +6,16 @@ const stats = [
     title: "Years Experience",
   },
   {
-    number: "10+",
+    number: "7+",
     title: "Patents",
   },
   {
-    number: "5+",
+    number: "10+",
     title: "IEEE Publications",
   },
   {
     number: "160+",
-    title: "Radar Boards Designed",
+    title: "Radar Boards Syncronization",
   },
 ];
 

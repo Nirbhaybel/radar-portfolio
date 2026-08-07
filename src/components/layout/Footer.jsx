@@ -23,15 +23,15 @@ export default function Footer() {
 
           <div className="flex gap-6 mt-6 md:mt-0">
 
-           <a href="https://github.com/Nirbhaybel" target="_blank" rel="noopener noreferrer">
+           <a href="https://nirbhaybel.github.io/radar-portfolio/" target="_blank" rel="noopener noreferrer">
   <FaGithub className="text-gray-400 hover:text-cyan-400 text-2xl" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/nirbhay-kumar-singh-01354256/" target="_blank" rel="noopener noreferrer">
   <FaLinkedin className="text-gray-400 hover:text-cyan-400 text-2xl" />
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:nirbhaysingh.iitm@email.com">
   <FaEnvelope className="text-gray-400 hover:text-cyan-400 text-2xl" />
 </a>
 

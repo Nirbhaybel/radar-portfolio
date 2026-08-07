@@ -25,6 +25,8 @@ export default function Hero() {
           transition={{ duration: 0.8 }}
         >
         <br />
+        <br />
+        <br />
           <p className="text-cyan-400 font-semibold tracking-widest uppercase">
             Welcome to my Portfolio
           </p>
@@ -113,7 +115,9 @@ export default function Hero() {
             >
               <FaGithub />
             </a>
-
+            <a href="mailto:nirbhaysingh.iitm@email.com">
+              <FaEnvelope className="text-gray-400 hover:text-cyan-400 text-2xl" />
+            </a>
           </div>
 
         </motion.div>
