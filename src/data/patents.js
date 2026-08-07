@@ -12,7 +12,7 @@ export const patents = [
       "Nirbhay Kumar Singh",
     description:
       "Synchronization technique for multi-channel direct RF digital transceivers using the JESD204 high-speed serial interface for phased-array radar applications.",
-    pdf: "/patents/Coming_Soon.pdf",
+    pdf: "/radar-portfolio/patents/Coming_Soon.pdf",
     patentUrl: "",
     image: "/images/patents/patent1.jpg",
   },
