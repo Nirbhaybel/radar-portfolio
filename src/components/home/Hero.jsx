@@ -115,9 +115,7 @@ export default function Hero() {
             >
               <FaGithub />
             </a>
-            <a href="mailto:nirbhaysingh.iitm@email.com">
-              <FaEnvelope className="text-gray-400 hover:text-cyan-400 text-2xl" />
-            </a>
+
           </div>
 
         </motion.div>
