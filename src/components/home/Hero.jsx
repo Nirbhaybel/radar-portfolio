@@ -74,7 +74,7 @@ export default function Hero() {
           <div className="flex flex-wrap gap-5 mt-10">
 
             <a
-              href="/${import.meta.env.BASE_URL}/resume/resume.pdf"
+              href="/radar-portfolio/resume/resume.pdf"
               target="_blank"
               className="px-8 py-4 rounded-xl bg-cyan-500 hover:bg-cyan-400 text-white font-semibold transition"
             >
