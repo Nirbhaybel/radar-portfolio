@@ -5,6 +5,7 @@ import {
   FaLinkedin,
   FaMapMarkerAlt,
   FaGraduationCap,
+  FaEnvelope ,
   FaBriefcase,
 } from "react-icons/fa";
 
@@ -115,7 +116,12 @@ export default function Hero() {
             >
               <FaGithub />
             </a>
-
+            <a
+  href="mailto:nirbhaysingh.iitm@gmail.com"
+  className="text-3xl text-gray-400 hover:text-cyan-400"
+>
+  <FaEnvelope />
+</a>
           </div>
 
         </motion.div>
