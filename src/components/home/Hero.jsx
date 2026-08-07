@@ -24,7 +24,7 @@ export default function Hero() {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8 }}
         >
-
+        <br />
           <p className="text-cyan-400 font-semibold tracking-widest uppercase">
             Welcome to my Portfolio
           </p>
