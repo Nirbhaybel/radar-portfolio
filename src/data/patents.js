@@ -30,7 +30,7 @@ export const patents = [
       "Nirbhay Kumar Singh, Vikas Kumar",
     description:
       "Programmable wideband exciter architecture capable of generating multiple coded radar waveforms with target simulation capability.",
-    pdf: "/patents/Coming_Soon.pdf",
+    pdf: "/radar-portfolio/patents/Coming_Soon.pdf",
     patentUrl: "",
     image: "/images/patents/patent2.jpg",
   },
@@ -48,7 +48,7 @@ export const patents = [
       "Nirbhay Kumar Singh, T. Venakatamuni",
     description:
       "Compact RF measurement system providing VSWR and power measurement with DSP-based temperature compensation.",
-    pdf: "/patents/Coming_Soon.pdf",
+    pdf: "/radar-portfolio/patents/Coming_Soon.pdf",
     patentUrl: "",
     image: "/images/patents/patent3.jpg",
   },
@@ -66,7 +66,7 @@ export const patents = [
       "Nirbhay Kumar Singh, Vikas Kumar",
     description:
       "Compact programmable digital transceiver architecture designed for software-defined radar applications.",
-    pdf: "/patents/Coming_Soon.pdf",
+    pdf: "/radar-portfolio/patents/Coming_Soon.pdf",
     patentUrl: "",
     image: "/images/patents/patent4.jpg",
   },
@@ -84,7 +84,7 @@ export const patents = [
       "Nirbhay Kumar Singh, Fouziya C.",
     description:
       "Technique to convert a non-coherent FMCW radar architecture into a coherent radar for improved system performance.",
-    pdf: "/patents/Coming_Soon.pdf",
+    pdf: "/radar-portfolio/patents/Coming_Soon.pdf",
     patentUrl: "",
     image: "/images/patents/patent5.jpg",
   },
@@ -102,7 +102,7 @@ export const patents = [
       "Nirbhay Kumar Singh, T. Venakatamuni",
     description:
       "Ultra-low phase-noise digital source generator with fast settling and phase coherence for radar and communication systems.",
-    pdf: "/patents/Coming_Soon.pdf",
+    pdf: "/radar-portfolio/patents/Coming_Soon.pdf",
     patentUrl: "",
     image: "/images/patents/patent6.jpg",
   },

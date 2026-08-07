@@ -30,9 +30,7 @@ export default function Hero() {
           </p>
 
           <h1 className="mt-4 text-5xl lg:text-7xl font-extrabold leading-tight text-white">
-            Nirbhay
-            <br />
-            Kumar Singh
+            Nirbhay Kumar Singh
           </h1>
 
           <h2 className="mt-6 text-3xl text-cyan-400 font-semibold">
